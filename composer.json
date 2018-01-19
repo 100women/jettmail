@@ -1,0 +1,9 @@
+{
+    "name": "100women/jettmail",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": ">=1.0.8",
+        "elgg/notifications": ">1.9",
+    },
+    "license": "GPL-2.0"
+}
